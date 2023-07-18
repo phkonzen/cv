@@ -1,2 +1,2 @@
-# cv
-Curriculum Vitae
+# Short CV
+My short curriculum vitae.
